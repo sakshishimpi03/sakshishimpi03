@@ -2,9 +2,6 @@
 
 <h3 align="center">A passionate tech enthusiast from India, aspiring to turn data into meaningful insights.</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=sakshishimpi03&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
-</p>
 
 ---
 
