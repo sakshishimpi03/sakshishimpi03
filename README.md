@@ -27,9 +27,9 @@
 |---|---|---|
 | [E-Commerce Sales & Customer Analysis](https://github.com/sakshishimpi03/SQL-Project) | Analyzing sales performance, customer behaviour and business trends. | SQL |
 | Customer Churn Analysis | Exploring customer churn patterns and retention insights. | Python, SQL, Power BI |
-| Sales Dashboard | Interactive dashboard to track sales performance and KPIs. | Power BI, DAX |
-| AI Chatbot | AI-powered chatbot with document upload and conversation history. | HTML, CSS, JavaScript, Gemini API |
-| Student Management System | Managing student records using CRUD operations and OOP concepts. | Python, CSV |
+| [Sales Dashboard] (https://github.com/sakshishimpi03/sales-dashboard) | Interactive dashboard to track sales performance and KPIs. | Power BI, DAX |
+| [AI Chatbot] (https://github.com/sakshishimpi03/AI-chatbot) | AI-powered chatbot with document upload and conversation history. | HTML, CSS, JavaScript, Gemini API |
+| [Student Management System] (https://github.com/sakshishimpi03/python-oops) | Managing student records using CRUD operations and OOP concepts. | Python, CSV |
 
 ---
 
