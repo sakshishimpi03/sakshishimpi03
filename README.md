@@ -10,11 +10,12 @@
 
 ### 👩‍💻 About Me
 
-- 🎓 Currently pursuing **M.Sc. Information Technology**
+- 🎓 Currently pursuing **M.Sc. Information Technology**.
 - 📊 Aspiring **Data Analyst** passionate about data and technology.
-- 🌱 Currently learning **Advanced SQL, Power BI and Data Analytics**.
-- 🔭 Working on data analytics and Python projects.
-- 💡 Interested in Data Analytics, Business Intelligence and Web Development.
+- 📚 Pursuing a **6-month Data Analytics course with Generative AI**.
+- 🌱 Learning Advanced SQL, Power BI, Python and Generative AI.
+- 🔭 Working on Data Analytics and Python projects.
+- 💡 Interested in Data Analytics, Business Intelligence and Artificial Intelligence.
 - 🤝 Open to collaborating on interesting projects.
 - 📫 Reach me at: **sakshishimpi030404@gmail.com**
 
@@ -27,35 +28,37 @@
 | [E-Commerce Sales & Customer Analysis](https://github.com/sakshishimpi03/SQL-Project) | Analyzing sales performance, customer behaviour and business trends. | SQL |
 | Customer Churn Analysis | Exploring customer churn patterns and retention insights. | Python, SQL, Power BI |
 | Sales Dashboard | Interactive dashboard to track sales performance and KPIs. | Power BI, DAX |
-| AI Chatbot | AI-powered chatbot with document upload and conversation history. | HTML, CSS, JavaScript |
+| AI Chatbot | AI-powered chatbot with document upload and conversation history. | HTML, CSS, JavaScript, Gemini API |
+| Student Management System | Managing student records using CRUD operations and OOP concepts. | Python, CSV |
 
 ---
 
-### 📊 GitHub Statistics
+### 🧠 Currently Learning
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakshishimpi03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshishimpi03&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+- Advanced SQL and Database Management
+- Power BI, DAX and Data Visualization
+- Python for Data Analysis
+- Exploratory Data Analysis (EDA)
+- Generative AI and its applications in Data Analytics
 
-### 🔥 Contribution Streak
+---
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshishimpi03&theme=tokyonight&hide_border=true" />
-</p>
+### 🏆 Certifications & Virtual Experiences
 
-### 📈 Contribution Activity Graph
+- **Deloitte Australia** – Data Analytics (Forage)
+- **Tata Group** – Data Analytics & AI (Forage)
+- **Siemens Mobility** – Project Management (Forage)
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshishimpi03&theme=tokyo-night&hide_border=true" />
-</p>
+---
 
-### ⭐ GitHub Overview
+### 🎯 Areas of Interest
 
-<p align="center">
-  <img src="https://img.shields.io/github/repos/sakshishimpi03?style=for-the-badge&logo=github&color=blue" />
-  <img src="https://img.shields.io/github/stars/sakshishimpi03?style=for-the-badge&logo=github&color=yellow" />
-</p>
+- Data Analytics & Business Intelligence
+- Data Visualization
+- Database Management
+- Artificial Intelligence & Machine Learning
+- Generative AI
+- Web Development
 
 ---
 
@@ -69,7 +72,6 @@
 <a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" width="45"/></a>
 <a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" width="45"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="45"/></a>
-<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45"/></a>
 <a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="45"/></a>
 <a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45"/></a>
 <a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
@@ -78,7 +80,20 @@
 
 **Data Analytics:** Pandas, NumPy, Excel, Power BI, Tableau, EDA, DAX
 
-**Other Skills:** C, C++, Arduino, MySQL, PostgreSQL, Flask
+**Programming Languages:** Python, Java, C, C++, JavaScript, SQL
+
+**Other Skills:** MySQL, PostgreSQL, Flask, Arduino, Git, HTML, CSS
+
+---
+
+### 🌱 My GitHub Goals
+
+- Build practical real-world projects.
+- Improve SQL and Python problem-solving skills.
+- Explore new tools and technologies.
+- Work on real-world Data Analytics projects.
+- Explore Generative AI applications.
+- Continuously learn and grow as a Data Analyst.
 
 ---
 
@@ -93,6 +108,8 @@
 </a>
 </p>
 
+📧 **Email:** sakshishimpi030404@gmail.com
+
 📄 **[View My Resume](https://drive.google.com/file/d/1qlxoR239IfVbjVm3HfExck-eU81kNf2H/view?usp=drive_link)**
 
 ---
@@ -101,4 +118,4 @@
   <i>"Learning, building, and growing one project at a time."</i>
 </p>
 
-<h3 align="center">Thank you for visiting my profile! 😊</h3>
+<h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
