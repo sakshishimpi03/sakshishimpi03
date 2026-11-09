@@ -1,24 +1,104 @@
 <h1 align="center">Hi 👋, I'm Sakshi Shimpi</h1>
-<h3 align="center">A passionate tech enthusiast from India | Aspiring Data Analyst | Python • SQL • Power BI • Web Development</h3>
 
-- 🔭 I’m currently working on [E-commerce Sales & Customer Analysis (SQL)](https://github.com/sakshishimpi03/SQL-Project)
+<h3 align="center">A passionate tech enthusiast from India, aspiring to turn data into meaningful insights.</h3>
 
-- 🌱 I’m currently learning **Advanced SQL and Power BI (DAX) projects**
-
-- 👯 I’m looking to collaborate on **Customer Churn Analysis**
-
-- 👨‍💻 All of my projects are available at [https://github.com/sakshishimpi03](https://github.com/sakshishimpi03)
-
-- 💬 Ask me about **Python, Pandas, NumPy, SQL,PSQL,EDA, Excel, Power BI and Tableau**
-
-- 📫 How to reach me **sakshishimpi030404@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1qlxoR239IfVbjVm3HfExck-eU81kNf2H/view?usp=drive_link](https://drive.google.com/file/d/1qlxoR239IfVbjVm3HfExck-eU81kNf2H/view?usp=drive_link)
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sakshi-shimpi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sakshi-shimpi" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=sakshishimpi03&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> </p>
+---
+
+### 👩‍💻 About Me
+
+- 🎓 Currently pursuing **M.Sc. Information Technology**
+- 📊 Aspiring **Data Analyst** passionate about data and technology.
+- 🌱 Currently learning **Advanced SQL, Power BI and Data Analytics**.
+- 🔭 Working on data analytics and Python projects.
+- 💡 Interested in Data Analytics, Business Intelligence and Web Development.
+- 🤝 Open to collaborating on interesting projects.
+- 📫 Reach me at: **sakshishimpi030404@gmail.com**
+
+---
+
+### 💻 Featured Projects
+
+| Project | Description | Technologies |
+|---|---|---|
+| [E-Commerce Sales & Customer Analysis](https://github.com/sakshishimpi03/SQL-Project) | Analyzing sales performance, customer behaviour and business trends. | SQL |
+| Customer Churn Analysis | Exploring customer churn patterns and retention insights. | Python, SQL, Power BI |
+| Sales Dashboard | Interactive dashboard to track sales performance and KPIs. | Power BI, DAX |
+| AI Chatbot | AI-powered chatbot with document upload and conversation history. | HTML, CSS, JavaScript |
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sakshishimpi03&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakshishimpi03&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+### 🔥 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakshishimpi03&theme=tokyonight&hide_border=true" />
+</p>
+
+### 📈 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakshishimpi03&theme=tokyo-night&hide_border=true" />
+</p>
+
+### ⭐ GitHub Overview
+
+<p align="center">
+  <img src="https://img.shields.io/github/repos/sakshishimpi03?style=for-the-badge&logo=github&color=blue" />
+  <img src="https://img.shields.io/github/stars/sakshishimpi03?style=for-the-badge&logo=github&color=yellow" />
+</p>
+
+---
+
+### 🛠️ Languages and Tools
+
+<p align="left">
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python" width="45"/></a>
+<a href="https://www.mysql.com/"><img src="https://skillicons.dev/icons?i=mysql" width="45"/></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres" width="45"/></a>
+<a href="https://www.java.com/"><img src="https://skillicons.dev/icons?i=java" width="45"/></a>
+<a href="https://www.w3.org/html/"><img src="https://skillicons.dev/icons?i=html" width="45"/></a>
+<a href="https://www.w3.org/Style/CSS/"><img src="https://skillicons.dev/icons?i=css" width="45"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=javascript" width="45"/></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react" width="45"/></a>
+<a href="https://flask.palletsprojects.com/"><img src="https://skillicons.dev/icons?i=flask" width="45"/></a>
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git" width="45"/></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" width="45"/></a>
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma" width="45"/></a>
+</p>
+
+**Data Analytics:** Pandas, NumPy, Excel, Power BI, Tableau, EDA, DAX
+
+**Other Skills:** C, C++, Arduino, MySQL, PostgreSQL, Flask
+
+---
+
+### 🤝 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/sakshi-shimpi" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" width="40"/>
+</a>
+<a href="https://github.com/sakshishimpi03" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="40"/>
+</a>
+</p>
+
+📄 **[View My Resume](https://drive.google.com/file/d/1qlxoR239IfVbjVm3HfExck-eU81kNf2H/view?usp=drive_link)**
+
+---
+
+<p align="center">
+  <i>"Learning, building, and growing one project at a time."</i>
+</p>
+
+<h3 align="center">Thank you for visiting my profile! 😊</h3>
