@@ -26,7 +26,7 @@
 | [Sales Dashboard](https://github.com/sakshishimpi03/sales-dashboard) | Interactive dashboard to track sales performance and KPIs. | Power BI, DAX |
 | [AI Chatbot](https://github.com/sakshishimpi03/AI-chatbot) | AI-powered chatbot with document upload and conversation history. | HTML, CSS, JavaScript, Gemini API |
 | [Student Management System](https://github.com/sakshishimpi03/python-oops) | Managing student records using CRUD operations and OOP concepts. | Python, CSV |
-| [Electricity Bill Management System]() | Menu-driven application to manage electricity bills with create, view, update and delete operations. | Python, OOP, CRUD |
+| [Electricity Bill Management System](https://github.com/sakshishimpi03/Electricity-Bill-Management-System) | Menu-driven application to manage electricity bills with create, view, update and delete operations. | Python, OOP, CRUD |
 
 ---
 
