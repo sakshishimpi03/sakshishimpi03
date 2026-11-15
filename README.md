@@ -2,7 +2,6 @@
 
 <h3 align="center">A passionate tech enthusiast from India, aspiring to turn data into meaningful insights.</h3>
 
-
 ---
 
 ### 👩‍💻 About Me
@@ -27,6 +26,7 @@
 | [Sales Dashboard](https://github.com/sakshishimpi03/sales-dashboard) | Interactive dashboard to track sales performance and KPIs. | Power BI, DAX |
 | [AI Chatbot](https://github.com/sakshishimpi03/AI-chatbot) | AI-powered chatbot with document upload and conversation history. | HTML, CSS, JavaScript, Gemini API |
 | [Student Management System](https://github.com/sakshishimpi03/python-oops) | Managing student records using CRUD operations and OOP concepts. | Python, CSV |
+| [Electricity Bill Management System]() | Menu-driven application to manage electricity bills with create, view, update and delete operations. | Python, OOP, CRUD |
 
 ---
 
@@ -112,7 +112,7 @@
 ---
 
 <p align="center">
-  <i>"Learning, building, and growing one project at a time."</i>
+<i>"Learning, building, and growing one project at a time."</i>
 </p>
 
 <h3 align="center">✨ Thank you for visiting my profile! ✨</h3>
