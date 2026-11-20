@@ -107,7 +107,7 @@
 
 📧 **Email:** sakshishimpi030404@gmail.com
 
-📄 **[View My Resume](https://drive.google.com/file/d/1GDsE4e0BiNK2wezFjwUHVggMWSTTEj_L/view?usp=drive_link)**
+📄 **[View My Resume](https://drive.google.com/file/d/1NntLXRxLu-_GTKjOPQglqdsmP6C5omnN/view?usp=drive_link)**
 
 ---
 
